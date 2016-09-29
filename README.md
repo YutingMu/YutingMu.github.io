@@ -1,7 +1,7 @@
 flex
 ====
 
-Flex is a responsive, flexible, [Jekyll](http://jekyllrb.com) theme.
+Flex is a responsive, flexible, [YutingMu](http://YutingMu.com) theme.
 
 The theme is based on the website [The Development](http://thedevelopment.co).
 
