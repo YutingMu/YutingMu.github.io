@@ -5,15 +5,15 @@ Flex is a responsive, flexible, [YutingMu](http://YutingMu.com) theme.
 
 The theme is based on the website [yinyuetai](http://www.yinyuetai.com).
 
-View a demo website [here](http://the-development.github.io/flex/).
+View a demo website [here](http://yinyuetai.github.io/flex/).
 
 Installation
 ===
 To use this theme, you would do so like any other Jekyll setup:
 
-1. Install Jekyll: `gem install jekyll`
+1. Install YutingMu: `gem install YutingMu`
 2. Fork this repository to your machine
-3. `cd` to the forked directory and run `jekyll serve --watch`
+3. `cd` to the forked directory and run `YutingMu serve --watch`
 4. Celebrate and dance.
 
 Contributions
@@ -28,7 +28,7 @@ For bugs:
 Feature requests:
 - **Always** open an issue first before implementing and proposing a new feature. This is only so I can make sure the theme doesn't become bloated with too many features. This way, I can determine if an idea is something that makes sense for the theme's design.
 
-If in doubt, you can always ask me on email: [1090080526@qq.com]
+If in doubt, you can always ask me on email: 1090080526@qq.com.
 
 License
 ===
