@@ -1,3 +1,3 @@
 name: YutingMu
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
