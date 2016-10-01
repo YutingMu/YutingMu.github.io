@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Example post
+title: Enjoy Music
 cover: cover.jpg
-date:   2013-12-09 12:00:00
+date:   2016-9-30 12:00:00
 categories: posts
 ---
 
-## Introducing Flex, a Jekyll theme
+## Introducing MUSIC
 
 Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
 
