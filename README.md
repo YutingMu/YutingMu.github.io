@@ -1,7 +1,7 @@
-flex
+Music
 ====
 
-Flex is a responsive, flexible, [YutingMu](http://YutingMu.com) theme.
+Music is a responsive, flexible, [YutingMu](http://YutingMu.com) theme.
 
 The theme is based on the website [yinyuetai](http://www.yinyuetai.com).
 
@@ -33,7 +33,7 @@ If in doubt, you can always ask me on email: 1090080526@qq.com.
 License
 ===
 
-Flex is licensed under the MIT license:
+Music is licensed under the MIT license:
 
 
 The MIT License (MIT)
